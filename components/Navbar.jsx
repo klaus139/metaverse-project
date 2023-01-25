@@ -20,7 +20,7 @@ const Navbar = () => (
       alt='search'
       className='w-[24px] h-[24px] object-contain' />
       <h2 className='font-extrabold text-[20px] loading-[20px] text-white'>
-        WELCOME TO KLAUS METAVERSE
+        WELCOME TO THE METAVERSE
       </h2>
       <img 
       src='/menu.svg'
