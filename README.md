@@ -4,6 +4,8 @@
 # npm install
 # npm run dev
 # leave a like for the repo if you like it
+# this project is hosted on
+https://klausmeta.adaptable.app
 
 
 
