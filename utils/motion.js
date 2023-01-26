@@ -1,9 +1,9 @@
 export const navVariants = {
   hidden: {
     opacity: 0,
-    y: -50, //this means the attribute will move by 150 pixels
+    y: -50, // this means the attribute will move by 150 pixels
     transition: {
-      type: 'spring',//this attribute means the component will bounce a bit
+      type: 'spring', // this attribute means the component will bounce a bit
       stiffness: 300,
       damping: 140,
     },
